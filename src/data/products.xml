@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="p1" type="Chicken" unit="kg" price="250.00" available="true">
+    <name>Chicken curry cut</name>
+    <description>Skinless, bone-in pieces for curry</description>
+    <image></image>
+  </product>
+  <product id="p2" type="Chicken" unit="kg" price="230.00" available="true">
+    <name>Chicken skinless</name>
+    <description>Whole bird, skin removed</description>
+    <image></image>
+  </product>
+  <product id="p3" type="Chicken" unit="kg" price="250.00" available="true">
+    <name>Chicken boneless breast</name>
+    <description>Lean fillets, no bone</description>
+    <image></image>
+  </product>
+  <product id="p4" type="Chicken" unit="kg" price="300.00" available="true">
+    <name>Chicken drumstick</name>
+    <description>Juicy leg pieces, bone-in</description>
+    <image></image>
+  </product>
+  <product id="p5" type="Chicken" unit="kg" price="160.00" available="true">
+    <name>Chicken liver</name>
+    <description>Cleaned, ready to fry</description>
+    <image></image>
+  </product>
+  <product id="p6" type="Country chicken" unit="kg" price="450.00" available="true">
+    <name>Nattu kozhi (country chicken)</name>
+    <description>Free-range bird, firm meat</description>
+    <image></image>
+  </product>
+  <product id="p7" type="Mutton" unit="kg" price="879.00" available="true">
+    <name>Mutton curry cut</name>
+    <description>Mixed bone-in pieces for kuzhambu</description>
+    <image></image>
+  </product>
+  <product id="p8" type="Mutton" unit="kg" price="1100.00" available="true">
+    <name>Mutton boneless</name>
+    <description>Tender leg meat, no bone</description>
+    <image></image>
+  </product>
+  <product id="p9" type="Eggs" unit="pc" price="7.00" available="true">
+    <name>Eggs (white)</name>
+    <description>Farm eggs, sold per piece</description>
+    <image></image>
+  </product>
+  <product id="p10" type="Eggs" unit="pc" price="14.00" available="true">
+    <name>Nattu eggs</name>
+    <description>Country chicken eggs</description>
+    <image></image>
+  </product>
+  <product id="p11" type="Chicken" unit="kg" price="220.00" available="true">
+    <name>Chicken with skin</name>
+    <description>Whole bird, skin on</description>
+    <image></image>
+  </product>
+  <product id="p12" type="Chicken" unit="kg" price="320.00" available="true">
+    <name>Chicken boneless cubes</name>
+    <description>Bite-size pieces for fry and 65</description>
+    <image></image>
+  </product>
+  <product id="p13" type="Chicken" unit="kg" price="230.00" available="true">
+    <name>Chicken wings</name>
+    <description>Whole wings with tip</description>
+    <image></image>
+  </product>
+  <product id="p14" type="Chicken" unit="kg" price="280.00" available="true">
+    <name>Chicken lollipop</name>
+    <description>Frenched wing pieces for starters</description>
+    <image></image>
+  </product>
+  <product id="p15" type="Chicken" unit="kg" price="290.00" available="true">
+    <name>Chicken whole leg</name>
+    <description>Thigh and drumstick together</description>
+    <image></image>
+  </product>
+  <product id="p16" type="Chicken" unit="kg" price="330.00" available="true">
+    <name>Chicken keema (mince)</name>
+    <description>Freshly minced boneless meat</description>
+    <image></image>
+  </product>
+  <product id="p17" type="Chicken" unit="kg" price="150.00" available="true">
+    <name>Chicken gizzard</name>
+    <description>Cleaned and trimmed</description>
+    <image></image>
+  </product>
+  <product id="p18" type="Mutton" unit="kg" price="920.00" available="true">
+    <name>Mutton chops</name>
+    <description>Rib chops for fry and grill</description>
+    <image></image>
+  </product>
+  <product id="p19" type="Mutton" unit="kg" price="950.00" available="true">
+    <name>Mutton keema (mince)</name>
+    <description>Freshly minced, lean</description>
+    <image></image>
+  </product>
+  <product id="p20" type="Mutton" unit="kg" price="760.00" available="true">
+    <name>Mutton liver</name>
+    <description>Fresh liver, cleaned</description>
+    <image></image>
+  </product>
+  <product id="p21" type="Mutton" unit="kg" price="860.00" available="true">
+    <name>Mutton ribs</name>
+    <description>Bone-in ribs for soup and fry</description>
+    <image></image>
+  </product>
+  <product id="p22" type="Mutton" unit="pc" price="60.00" available="true">
+    <name>Mutton paya (trotters)</name>
+    <description>Cleaned legs, sold per piece</description>
+    <image></image>
+  </product>
+  <product id="p23" type="Quail" unit="pc" price="70.00" available="true">
+    <name>Kaadai (quail)</name>
+    <description>Dressed whole bird, per piece</description>
+    <image></image>
+  </product>
+  <product id="p24" type="Eggs" unit="pc" price="4.00" available="true">
+    <name>Kaadai eggs (quail eggs)</name>
+    <description>Small speckled eggs</description>
+    <image></image>
+  </product>
+  <product id="p25" type="Fish &amp; seafood" unit="kg" price="1400.00" available="true">
+    <name>Vanjaram (seer fish) steaks</name>
+    <description>Thick steaks for fry</description>
+    <image></image>
+  </product>
+  <product id="p26" type="Fish &amp; seafood" unit="kg" price="900.00" available="true">
+    <name>Vavval (pomfret)</name>
+    <description>Whole fish, cleaned</description>
+    <image></image>
+  </product>
+  <product id="p27" type="Fish &amp; seafood" unit="kg" price="220.00" available="true">
+    <name>Mathi (sardine)</name>
+    <description>Whole, cleaned</description>
+    <image></image>
+  </product>
+  <product id="p28" type="Fish &amp; seafood" unit="kg" price="320.00" available="true">
+    <name>Rohu curry cut</name>
+    <description>Bone-in slices for kuzhambu</description>
+    <image></image>
+  </product>
+  <product id="p29" type="Fish &amp; seafood" unit="kg" price="650.00" available="true">
+    <name>Prawns (cleaned)</name>
+    <description>Peeled and deveined</description>
+    <image></image>
+  </product>
+  <product id="p30" type="Fish &amp; seafood" unit="kg" price="480.00" available="true">
+    <name>Crab</name>
+    <description>Whole sea crab, cleaned</description>
+    <image></image>
+  </product>
+</products>

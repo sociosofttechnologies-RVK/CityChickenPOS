@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bills date="2026-10-17">
+  <bill no="CC-20261017-001" time="17/10/2026 12:24" payment="Card" subtotal="1250.00" roundOff="0.00" total="1250.00">
+    <item name="Chicken curry cut" unit="kg" qty="1" rate="250.00" amount="250.00"/>
+    <item name="Chicken boneless breast" unit="kg" qty="4" rate="250.00" amount="1000.00"/>
+  </bill>
+</bills>

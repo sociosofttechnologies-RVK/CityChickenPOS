@@ -1,0 +1,43 @@
+REAL PRODUCT PHOTOS
+
+Put a photo in this folder with the file name shown below and the till uses it
+in place of the drawing. Restart is not needed: press F5 in the till.
+
+Allowed types: .jpg .jpeg .png .webp   Best shape: landscape, about 800 x 600.
+Use your own photos or photos you have the right to use.
+
+Product                              File name
+-----------------------------------  ----------------------------------------
+Chicken curry cut                    chicken-curry-cut.jpg
+Chicken skinless                     chicken-skinless.jpg
+Chicken boneless breast              chicken-boneless-breast.jpg
+Chicken drumstick                    chicken-drumstick.jpg
+Chicken liver                        chicken-liver.jpg
+Nattu kozhi (country chicken)        nattu-kozhi.jpg
+Mutton curry cut                     mutton-curry-cut.jpg
+Mutton boneless                      mutton-boneless.jpg
+Eggs (white)                         eggs.jpg
+Nattu eggs                           nattu-eggs.jpg
+Chicken with skin                    chicken-with-skin.jpg
+Chicken boneless cubes               chicken-boneless-cubes.jpg
+Chicken wings                        chicken-wings.jpg
+Chicken lollipop                     chicken-lollipop.jpg
+Chicken whole leg                    chicken-whole-leg.jpg
+Chicken keema (mince)                chicken-keema.jpg
+Chicken gizzard                      chicken-gizzard.jpg
+Mutton chops                         mutton-chops.jpg
+Mutton keema (mince)                 mutton-keema.jpg
+Mutton liver                         mutton-liver.jpg
+Mutton ribs                          mutton-ribs.jpg
+Mutton paya (trotters)               mutton-paya.jpg
+Kaadai (quail)                       kaadai.jpg
+Kaadai eggs (quail eggs)             kaadai-eggs.jpg
+Vanjaram (seer fish) steaks          vanjaram-steaks.jpg
+Vavval (pomfret)                     vavval.jpg
+Mathi (sardine)                      mathi.jpg
+Rohu curry cut                       rohu-curry-cut.jpg
+Prawns (cleaned)                     prawns.jpg
+Crab                                 crab.jpg
+
+For a product you add later: lower-case letters, numbers and dashes,
+leaving out anything in brackets. Example: Chicken 65 cut -> chicken-65-cut.jpg

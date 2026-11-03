@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <shop name="City Chicken Mutton Center" address="46, Padmavathy Nagar, Madambakkam, Main Road, Chennai 600126" phone="00000 00000" gstin="" catalog="2"/>
+  <printer name="TVS RP 3200 Lite" paperWidth="80" copies="1" footer="Thank you. Fresh cut daily."/>
+  <scale model="HMS-C" capacityKg="25" divisionG="5" minimumG="100" baudRate="9600" dataBits="8" parity="none" sends="g" demo="false"/>
+  <tv videoSeconds="10" offerSeconds="3" menuSeconds="1"/>
+</config>

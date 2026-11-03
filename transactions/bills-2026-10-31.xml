@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bills date="2026-10-31">
+  <bill no="CC-20261031-001" time="31/10/2026 22:53" payment="Cash" subtotal="60250.00" roundOff="0.00" total="60250.00">
+    <item name="Chicken skinless" unit="kg" qty="25" rate="230.00" amount="5750.00"/>
+    <item name="Chicken liver" unit="kg" qty="25" rate="160.00" amount="4000.00"/>
+    <item name="Mutton boneless" unit="kg" qty="25" rate="1100.00" amount="27500.00"/>
+    <item name="Mutton chops" unit="kg" qty="25" rate="920.00" amount="23000.00"/>
+  </bill>
+</bills>
